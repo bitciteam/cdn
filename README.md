@@ -1,4 +1,4 @@
 # cdn
 
 #### entire directory
-- https://cdn.jsdelivr.net/gh/bitciteam/cdn@master/
+- https://cdn.jsdelivr.net/gh/bitciteam/cdn/assets/coins/svg/bitci.svg
