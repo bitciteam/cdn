@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="10" cy="10" r="10" transform="translate(0 0.001)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1365" data-name="Path 1365" d="M28.24,6.034H2.286A2.286,2.286,0,0,0,0,8.321V23.748a2.286,2.286,0,0,0,2.286,2.286H28.24a2.286,2.286,0,0,0,2.286-2.286V8.321A2.286,2.286,0,0,0,28.24,6.034Z" transform="translate(0 -6.034)" fill="#ff4b55"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_5942" data-name="Path 5942" d="M0-5V5H5V-5ZM-5-5V5h2.5V-5Z" transform="translate(5 5)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_5943" data-name="Path 5943" d="M5,0V10h5V0ZM0,0V10H2.5V0Z"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Path_5948" data-name="Path 5948" d="M-5-5H5V1.25H-5Z" transform="translate(5 5)"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Path_5949" data-name="Path 5949" d="M0,0-5-3.75v7.5Z" transform="translate(5 3.75)"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Path_5950" data-name="Path 5950" d="M0,0-5-5V5Z" transform="translate(5 5)"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Path_5951" data-name="Path 5951" d="M5,5,3.75,0H0V8.75Z"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Path_5952" data-name="Path 5952" d="M5,5V0H0V10Z"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Path_5953" data-name="Path 5953" d="M5,3.75l-1.25,5H0V0Z"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Path_5954" data-name="Path 5954" d="M5,5v5H0V0Z"/>
+    </clipPath>
+  </defs>
+  <g id="global" transform="translate(0 -0.001)">
+    <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path)">
+      <g id="turkey" transform="translate(-5 -0.002)">
+        <g id="Mask_Group_4795" data-name="Mask Group 4795" clip-path="url(#clip-path-2)">
+          <g id="International_Flag_of_Planet_Earth" transform="translate(0.263 0.001)">
+            <rect id="Rectangle_2276" data-name="Rectangle 2276" width="30" height="20" fill="#013ba6"/>
+            <g id="ro" transform="translate(13.642 5)">
+              <g id="Group_6084" data-name="Group 6084" clip-path="url(#clip-path-3)">
+                <circle id="Ellipse_143" data-name="Ellipse 143" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_144" data-name="Ellipse 144" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6086" data-name="Group 6086" transform="matrix(0.5, -0.866, 0.866, 0.5, 9.991, 8.676)">
+              <g id="Group_6085" data-name="Group 6085" clip-path="url(#clip-path-4)">
+                <circle id="Ellipse_145" data-name="Ellipse 145" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_146" data-name="Ellipse 146" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6088" data-name="Group 6088" transform="matrix(0.5, 0.866, -0.866, 0.5, 18.651, 6.324)">
+              <g id="Group_6087" data-name="Group 6087" clip-path="url(#clip-path-4)">
+                <circle id="Ellipse_147" data-name="Ellipse 147" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_148" data-name="Ellipse 148" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6090" data-name="Group 6090" transform="matrix(-0.5, 0.866, -0.866, -0.5, 20.009, 11.324)">
+              <g id="Group_6089" data-name="Group 6089" clip-path="url(#clip-path-4)">
+                <circle id="Ellipse_149" data-name="Ellipse 149" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_150" data-name="Ellipse 150" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6092" data-name="Group 6092" transform="translate(16.359 15) rotate(180)">
+              <g id="Group_6091" data-name="Group 6091" clip-path="url(#clip-path-4)">
+                <circle id="Ellipse_151" data-name="Ellipse 151" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_152" data-name="Ellipse 152" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6094" data-name="Group 6094" transform="matrix(-0.5, -0.866, 0.866, -0.5, 11.349, 13.677)">
+              <g id="Group_6093" data-name="Group 6093" clip-path="url(#clip-path-4)">
+                <circle id="Ellipse_153" data-name="Ellipse 153" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_154" data-name="Ellipse 154" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6096" data-name="Group 6096" transform="translate(10 5)">
+              <g id="Group_6095" data-name="Group 6095" clip-path="url(#clip-path-9)">
+                <circle id="Ellipse_155" data-name="Ellipse 155" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <circle id="Ellipse_156" data-name="Ellipse 156" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+            </g>
+            <g id="Group_6099" data-name="Group 6099" transform="translate(13.642 5)">
+              <g id="Group_6097" data-name="Group 6097" transform="translate(0 1.25)" clip-path="url(#clip-path-10)">
+                <circle id="Ellipse_157" data-name="Ellipse 157" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 0.108)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <g id="Group_6098" data-name="Group 6098" clip-path="url(#clip-path-11)">
+                <circle id="Ellipse_158" data-name="Ellipse 158" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+              </g>
+            </g>
+            <g id="rl" transform="matrix(-0.5, 0.866, -0.866, -0.5, 20.009, 11.324)">
+              <g id="Group_6100" data-name="Group 6100" clip-path="url(#clip-path-12)">
+                <circle id="Ellipse_159" data-name="Ellipse 159" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <g id="Group_6101" data-name="Group 6101" clip-path="url(#clip-path-13)">
+                <circle id="Ellipse_160" data-name="Ellipse 160" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+              </g>
+            </g>
+            <g id="Group_6104" data-name="Group 6104" transform="translate(18.651 6.324) rotate(60)">
+              <g id="Group_6102" data-name="Group 6102" transform="translate(0 1.25)" clip-path="url(#clip-path-14)">
+                <circle id="Ellipse_161" data-name="Ellipse 161" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 0.108)" fill="none" stroke="#013ba6" stroke-width="0.976"/>
+              </g>
+              <g id="Group_6103" data-name="Group 6103" clip-path="url(#clip-path-15)">
+                <circle id="Ellipse_162" data-name="Ellipse 162" cx="3.642" cy="3.642" r="3.642" transform="translate(1.358 1.358)" fill="none" stroke="#fff" stroke-width="0.434"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
