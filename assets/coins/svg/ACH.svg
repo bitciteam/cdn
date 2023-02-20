@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_7642" data-name="Path 7642" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="ach" transform="translate(-478.93 -7217.402)">
+    <g id="Group_5290" data-name="Group 5290" transform="translate(478.93 7217.402)">
+      <g id="Group_5315" data-name="Group 5315">
+        <path id="Path_7640" data-name="Path 7640" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#fff"/>
+        <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+          <g id="alchemy-pay-ach-logo" transform="translate(6.893 4.288)">
+            <path id="Path_7643" data-name="Path 7643" d="M30.118,0C32.4,3.856,34.6,7.761,36.854,11.63a3,3,0,0,1,.414,1.695V27.254A15.136,15.136,0,0,0,27.574,27a17.167,17.167,0,0,0-4.64,2.428q.008-8.191,0-16.387a1.872,1.872,0,0,1,.259-1.15Q26.669,5.954,30.118,0Z" transform="translate(-4.94)" fill="#020041"/>
+            <path id="Path_7644" data-name="Path 7644" d="M0,49.22Q6.342,38.28,12.724,27.357c.08,7.3.03,14.6.028,21.893-4.248-.038-8.5,0-12.752-.03" transform="translate(0 -5.893)" fill="#020041"/>
+            <path id="Path_7645" data-name="Path 7645" d="M47.826,27.4c4.306,7.258,8.446,14.617,12.684,21.919-4.233.015-8.464-.025-12.694,0-.015-7.309-.038-14.615.01-21.919" transform="translate(-10.295 -5.903)" fill="#020041"/>
+            <path id="Path_7646" data-name="Path 7646" d="M30.273,39.743a10.336,10.336,0,0,1,6.922,1.348c.06,3.613-.043,7.228.1,10.836-4.607.018-9.217-.015-13.824-.033a11.476,11.476,0,0,1-.166-5.865,8.781,8.781,0,0,1,6.97-6.287" transform="translate(-4.952 -8.532)" fill="#020041"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
