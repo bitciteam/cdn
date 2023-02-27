@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_7642" data-name="Path 7642" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#7e1bcc"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_138" data-name="Ellipse 138" cx="30" cy="30" r="30" transform="translate(2 2)" fill="#652222"/>
+    </clipPath>
+  </defs>
+  <g id="audio" transform="translate(-478.93 -7217.402)">
+    <g id="Group_5290" data-name="Group 5290" transform="translate(478.93 7217.402)">
+      <g id="Group_5315" data-name="Group 5315">
+        <path id="Path_7640" data-name="Path 7640" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#fff"/>
+        <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path-2)">
+          <g id="uma-uma-logo" transform="translate(6.508 25.621)">
+            <path id="Path_10003" data-name="Path 10003" d="M35.764,12.772H33.6a.738.738,0,0,1-.74-.74V6.353l-3.779,2.36a.976.976,0,0,1-1.04,0l-3.759-2.36v5.679a.738.738,0,0,1-.74.74h-2.14a.738.738,0,0,1-.74-.74h0V1.074a.981.981,0,0,1,.98-.98.877.877,0,0,1,.54.18l5.959,4.1a.69.69,0,0,0,.82,0l5.959-4.1a.99.99,0,0,1,1.36.26,1.086,1.086,0,0,1,.18.54V12.032a.7.7,0,0,1-.7.74Z" transform="translate(-3.093 -0.014)" fill="#ff4a4a"/>
+            <path id="Path_10004" data-name="Path 10004" d="M14.354,12.738H.956a.981.981,0,0,1-.98-.98h0V.74A.755.755,0,0,1,.736,0H2.9a.738.738,0,0,1,.74.74h0V9.118h8.119V.74a.738.738,0,0,1,.74-.74h2.1a.738.738,0,0,1,.74.74V11.758a.981.981,0,0,1-.98.98Z" fill="#ff4a4a"/>
+            <path id="Path_10005" data-name="Path 10005" d="M42.9,0H56.3a.981.981,0,0,1,.98.98V12a.734.734,0,0,1-.72.74H54.4a.738.738,0,0,1-.74-.74h0V4.1a.487.487,0,0,0-.48-.48H46.039a.487.487,0,0,0-.48.48h0V12a.738.738,0,0,1-.74.74H42.66a.738.738,0,0,1-.74-.74h0V.98A.981.981,0,0,1,42.9,0Z" transform="translate(-6.27)" fill="#ff4a4a"/>
+            <path id="Path_10006" data-name="Path 10006" d="M49.549,6.983h2.14a.738.738,0,0,1,.74.74V9.9a.738.738,0,0,1-.74.74h-2.14a.738.738,0,0,1-.74-.74V7.7A.734.734,0,0,1,49.549,6.983Z" transform="translate(-7.299 -1.044)" fill="#ff4a4a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
