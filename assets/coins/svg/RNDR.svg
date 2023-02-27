@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_7642" data-name="Path 7642" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#7e1bcc"/>
+    </clipPath>
+  </defs>
+  <g id="rndr" transform="translate(-478.93 -7217.402)">
+    <g id="Group_5290" data-name="Group 5290" transform="translate(478.93 7217.402)">
+      <g id="Group_5315" data-name="Group 5315">
+        <path id="Path_7640" data-name="Path 7640" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#cf1011"/>
+      </g>
+    </g>
+    <g id="render-token" transform="translate(476.211 7214.683)">
+      <circle id="Ellipse_140" data-name="Ellipse 140" cx="10.267" cy="10.267" r="10.267" transform="translate(24.452 24.452)" fill="#fff"/>
+      <path id="Path_10012" data-name="Path 10012" d="M34.719,12.29V13.9A20.82,20.82,0,1,1,13.9,34.719a20.6,20.6,0,0,1,4.086-12.384,3.934,3.934,0,1,0-1.223-1.063A22.178,22.178,0,0,0,12.29,34.719,22.429,22.429,0,1,0,34.719,12.29ZM19.846,16.6a2.3,2.3,0,1,1-2.295,2.3A2.3,2.3,0,0,1,19.846,16.6Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

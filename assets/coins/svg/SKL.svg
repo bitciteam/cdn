@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_7642" data-name="Path 7642" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#7e1bcc"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_138" data-name="Ellipse 138" cx="30" cy="30" r="30" transform="translate(2 2)" fill="#652222"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_1657" data-name="Rectangle 1657" width="39.256" height="34.116" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="skl" transform="translate(-478.93 -7217.402)">
+    <g id="Group_5290" data-name="Group 5290" transform="translate(478.93 7217.402)">
+      <g id="Group_5315" data-name="Group 5315">
+        <path id="Path_7640" data-name="Path 7640" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z"/>
+        <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path-2)">
+          <g id="Group_5327" data-name="Group 5327" transform="translate(14.289 14.941)">
+            <path id="Path_10013" data-name="Path 10013" d="M0,0V34.116H31.906v-3.93H3.863V3.862H31.906V0Z" fill="#fff"/>
+            <g id="Group_5328" data-name="Group 5328" transform="translate(0 0)">
+              <g id="Group_5327-2" data-name="Group 5327" clip-path="url(#clip-path-3)">
+                <path id="Path_10014" data-name="Path 10014" d="M112.842,29.165c-2.813.357-4.823,1.831-5.582,4.086a4.724,4.724,0,0,0-.246,1.541,4.966,4.966,0,0,0,1.429,4.153c1.072,1.072,2.478,1.675,5.314,2.233a7.634,7.634,0,0,1,3.3,1.139,2.311,2.311,0,0,1,.6,2.746,2.84,2.84,0,0,1-1.25,1.206,5.887,5.887,0,0,1-4.354-.179,3.625,3.625,0,0,1-1.362-1.362,4.832,4.832,0,0,1-.469-1.764v-.357H106.3v.268a8.008,8.008,0,0,0,1.206,4.175,7.409,7.409,0,0,0,1.7,1.742A9.516,9.516,0,0,0,115.32,50.2a7.328,7.328,0,0,0,4.979-2.054,5.378,5.378,0,0,0,1.429-2.836,10.975,10.975,0,0,0-.089-3.438c-.514-1.742-1.831-2.88-4.175-3.662-.424-.134-1.139-.335-1.585-.424a22.13,22.13,0,0,1-3.26-.826c-1.139-.469-1.608-1.072-1.608-2.009,0-1.049.625-1.719,1.875-2.032a5.794,5.794,0,0,1,2.635.067,3.053,3.053,0,0,1,2.076,2.389l.067.447h3.863l-.045-.647a5.857,5.857,0,0,0-1.049-3.193,6.629,6.629,0,0,0-4.264-2.657,9.989,9.989,0,0,0-1.831-.156c-.714-.022-1.384,0-1.5,0" transform="translate(-82.566 -22.646)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
