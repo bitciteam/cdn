@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="a"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#a)"><path fill="#eee" d="M0 0h222.6l31 23.4L289.4 0H512v222.6l-21.5 31 21.5 35.8V512H289.4l-34.2-20.5-32.6 20.5H0V289.4l22.7-32.6L0 222.6z"/><path fill="#d80027" d="M222.6 0v222.6H0v66.8h222.6V512h66.8V289.4H512v-66.8H289.4V0z"/><path fill="#d80027" d="M155.8 122.4V89h-33.4v33.4H89v33.4h33.4v33.4h33.4v-33.4h33.4v-33.4zm233.8 0V89h-33.4v33.4h-33.4v33.4h33.4v33.4h33.4v-33.4H423v-33.4zM155.8 356.2v-33.4h-33.4v33.4H89v33.4h33.4V423h33.4v-33.4h33.4v-33.4zm233.8 0v-33.4h-33.4v33.4h-33.4v33.4h33.4V423h33.4v-33.4H423v-33.4z"/></g></svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_42_9863)">
+<mask id="mask0_42_9863" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+<path d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_42_9863)">
+<path d="M0 0H27.825L31.7 2.925L36.175 0H64V27.825L61.3125 31.7L64 36.175V64H36.175L31.9 61.4375L27.825 64H0V36.175L2.8375 32.1L0 27.825V0Z" fill="#EEEEEE"/>
+<path d="M27.825 0V27.825H0V36.175H27.825V64H36.175V36.175H64V27.825H36.175V0H27.825Z" fill="#D80027"/>
+<path d="M19.475 15.3V11.125H15.3V15.3H11.125V19.475H15.3V23.65H19.475V19.475H23.65V15.3H19.475ZM48.7 15.3V11.125H44.525V15.3H40.35V19.475H44.525V23.65H48.7V19.475H52.875V15.3H48.7ZM19.475 44.525V40.35H15.3V44.525H11.125V48.7H15.3V52.875H19.475V48.7H23.65V44.525H19.475ZM48.7 44.525V40.35H44.525V44.525H40.35V48.7H44.525V52.875H48.7V48.7H52.875V44.525H48.7Z" fill="#D80027"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_42_9863">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
