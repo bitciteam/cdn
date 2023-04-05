@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g transform="translate(-479 -7217.403)"><circle cx="32" cy="32" r="32" transform="translate(479 7217.403)" fill="#1fa5ff"/><g transform="translate(-55.852 34.559)"><path d="M.791,32.964,15.5,5.716,28.473,0,13.762,27.248Z" transform="translate(545.209 7196.32)" fill="#fff"/><path d="M20.341,28.743l11.176-20.7,6.343,6.228L26.837,35.028Z" transform="translate(540.331 7194.312)" fill="#fff"/><path d="M43.383,17.18l8.272,3-4.127,7.557L37.5,28.08Z" transform="translate(536.05 7192.033)" fill="#fff"/></g></g></svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_40_26910)">
+<path d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="#1FA5FF"/>
+<path d="M11.148 46.4401L25.857 19.1921L38.83 13.4761L24.119 40.7241L11.148 46.4401Z" fill="white"/>
+<path d="M25.82 40.2112L36.996 19.5112L43.339 25.7392L32.316 46.4962L25.82 40.2112Z" fill="white"/>
+<path d="M44.581 26.3691L52.853 29.3691L48.726 36.9261L38.698 37.2691L44.581 26.3691Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_40_26910">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>

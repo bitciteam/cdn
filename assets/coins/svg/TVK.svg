@@ -1,22 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
-  <defs>
-    <clipPath id="clip-path">
-      <path id="Path_7642" data-name="Path 7642" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#7e1bcc"/>
-    </clipPath>
-    <clipPath id="clip-path-2">
-      <rect id="Rectangle_1656" data-name="Rectangle 1656" width="38.861" height="40.054" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="tvk" transform="translate(-478.93 -7217.402)">
-    <g id="Group_5290" data-name="Group 5290" transform="translate(478.93 7217.402)">
-      <g id="Group_5315" data-name="Group 5315">
-        <path id="Path_7640" data-name="Path 7640" d="M32,64A32,32,0,1,0,0,32.07,32.021,32.021,0,0,0,32,64Z" fill="#9247ff"/>
-        <g id="Group_5326" data-name="Group 5326" transform="translate(12.57 14.344)">
-          <g id="Group_5325" data-name="Group 5325" clip-path="url(#clip-path-2)">
-            <path id="Path_10011" data-name="Path 10011" d="M38.861,11.4S25.06,35.853,23.71,38.253s-3.45,2.4-4.8,0S2.546,8.477,1.058,5.85C-.892,2.408-.061,0,2.858,0H13.809c2.55,0,4.093.3,5.722,3.6s3.879,8.1,5.078,9.451,6,7.05,14.251-1.65" transform="translate(0)" fill="#fff"/>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_40_32698)">
+<path d="M32.0001 64C38.3321 64 44.5217 62.1215 49.7856 58.6021C55.0495 55.0828 59.1509 50.081 61.5709 44.2297C63.9908 38.3783 64.6204 31.9406 63.38 25.7313C62.1396 19.522 59.0849 13.8203 54.6026 9.34783C50.1203 4.87535 44.4119 1.83318 38.1999 0.606374C31.988 -0.620436 25.5516 0.0232661 19.7056 2.45601C13.8596 4.88875 8.86676 9.00116 5.35899 14.2727C1.85121 19.5443 -0.0137746 25.7381 7.65974e-05 32.07C0.0241544 40.5431 3.40553 48.6612 9.40349 54.6461C15.4014 60.6309 23.527 63.9945 32.0001 64Z" fill="#9247FF"/>
+<mask id="mask0_40_32698" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="12" y="14" width="40" height="41">
+<path d="M51.4309 14.344H12.5699V54.398H51.4309V14.344Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_40_32698)">
+<path d="M51.4309 25.744C51.4309 25.744 37.6299 50.197 36.2799 52.597C34.9299 54.997 32.8299 54.997 31.4799 52.597C30.1299 50.197 15.1159 22.821 13.6279 20.194C11.6779 16.752 12.5089 14.344 15.4279 14.344H26.3789C28.9289 14.344 30.4719 14.644 32.1009 17.944C33.7299 21.244 35.9799 26.044 37.1789 27.395C38.3779 28.746 43.1789 34.445 51.4299 25.745" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_40_32698">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
 </svg>

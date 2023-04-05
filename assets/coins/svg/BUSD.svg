@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <g id="busd" transform="translate(-479 -7217.403)">
-    <circle id="Ellipse_115" data-name="Ellipse 115" cx="32" cy="32" r="32" transform="translate(479 7217.403)" fill="#f0b90b"/>
-    <g id="Layer_2" data-name="Layer 2" transform="translate(489.809 7228.141)">
-      <g id="Layer_1" data-name="Layer 1" transform="translate(0.7 0.71)">
-        <path id="Path_4639" data-name="Path 4639" d="M76.484.71l5.077,5.2L68.777,18.693,63.7,13.616Z" transform="translate(-55.993 -0.71)" fill="#fff"/>
-        <path id="Path_4640" data-name="Path 4640" d="M84.191,63.71l5.077,5.2L68.777,89.4,63.7,84.323Z" transform="translate(-55.993 -56.003)" fill="#fff"/>
-        <path id="Path_4641" data-name="Path 4641" d="M5.777,126.71l5.077,5.2-5.077,5.077L.7,131.909Z" transform="translate(-0.7 -111.296)" fill="#fff"/>
-        <path id="Path_4642" data-name="Path 4642" d="M147.191,126.71l5.077,5.2L131.777,152.4l-5.077-5.077Z" transform="translate(-111.286 -111.296)" fill="#fff"/>
-      </g>
-    </g>
-  </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_40_26604)">
+<path d="M32 64C49.6731 64 64 49.6731 64 32C64 14.3269 49.6731 0 32 0C14.3269 0 0 14.3269 0 32C0 49.6731 14.3269 64 32 64Z" fill="#F0B90B"/>
+<path d="M32.0001 11.4482L37.0771 16.6482L24.2931 29.4312L19.2161 24.3542L32.0001 11.4482Z" fill="white"/>
+<path d="M39.7071 19.1553L44.7841 24.3553L24.2931 44.8453L19.2161 39.7683L39.7071 19.1553Z" fill="white"/>
+<path d="M16.586 26.8623L21.663 32.0623L16.586 37.1393L11.509 32.0613L16.586 26.8623Z" fill="white"/>
+<path d="M47.414 26.8623L52.491 32.0623L32 52.5523L26.923 47.4753L47.414 26.8623Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_40_26604">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
 </svg>
